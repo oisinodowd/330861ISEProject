@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.gemini/
+*.hex
+count_words.py
+read_user_docx.py
+generate_report_docx.py
